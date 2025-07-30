@@ -6,24 +6,6 @@ childcare and home help
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Cal Tayla – Childcare & Babysitting</title>
-  <style>
-    body { 
-      font-family: 'Segoe UI', sans-serif; 
-      background-color: #fff8f4; 
-      color: #444; 
-      padding: 40px; 
-      line-height: 1.6;
-    }
-    h1 { color: #d27c7c; }
-    .section { margin-bottom: 25px; }
-    .paypal { 
-      padding: 10px; 
-      background: #ffe8e0; 
-      border-left: 5px solid #ffad99; 
-      font-weight: bold;
-    }
-  </style>
 </head>
 <body>
 
@@ -33,8 +15,10 @@ childcare and home help
     <h2>About Me</h2>
     <p>I provide warm, reliable, and loving childcare and babysitting services. With years of experience and a passion for helping little ones thrive, I bring calm, comfort, and fun into every home I visit.</p>
   </div>
-
-  <div class="section">
+![1](https://github.com/user-attachments/assets/5c7afb1b-c0c0-445f-b304-8cc9f4e590b3)
+</div>
+![2](https://github.com/user-attachments/assets/18fe098a-1937-4947-b292-fa593095ec4c)
+ <div class="section">
     <h2>Services</h2>
     <ul>
       <li>Casual babysitting (day or night)</li>
