@@ -1,6 +1,5 @@
 <html lang="en">
-<head>
-  <body style="background-color: lightblue;">
+<body style="background-color:blue;">
   <meta charset="UTF-8">
 </head>
 <body>
