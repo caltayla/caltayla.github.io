@@ -17,7 +17,6 @@ childcare and home help
   </div>
 
 <img src="https://github.com/user-attachments/assets/dba6b573-d38a-469a-be2a-2e44a8819f1e" width="502" height="295" alt="side one">
-</div>
 <img src="https://github.com/user-attachments/assets/668b1b3f-cc90-4c99-bfdb-e46dd45d06d5" width="502" height="295" alt="side two">
 
 
