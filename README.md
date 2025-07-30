@@ -1,15 +1,10 @@
-# caltayla.github.io
-childcare and home help
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
 </head>
 <body>
 
-  <h1>Hi, I'm Cal Tayla!</h1>
+  *<h1>welcome to dragonfly daycare</h1>*
 
   <div class="section">
     <h2>About Me</h2>
