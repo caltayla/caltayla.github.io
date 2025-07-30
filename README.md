@@ -1,10 +1,10 @@
 <html lang="en">
 <body style="background-color:#CCDBFB;">
   <meta charset="UTF-8">
-</head>
+
 <body>
 
-  *<h1>welcome to dragonfly daycare</h1>*
+  <h1>*welcome to dragonfly daycare*</h1>
 
   <div class="section">
     <h2>About Me</h2>
