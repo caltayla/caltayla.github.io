@@ -16,11 +16,9 @@ childcare and home help
     <p>I provide warm, reliable, and loving childcare and babysitting services. With years of experience and a passion for helping little ones thrive, I bring calm, comfort, and fun into every home I visit.</p>
   </div>
 
-<img src="https://github.com/user-attachments/assets/90d450e5-2b4d-4d0d-a4b6-2ba71536ac1c" width="300" height="230" alt="side one">
-
+<img src="https://github.com/user-attachments/assets/dba6b573-d38a-469a-be2a-2e44a8819f1e" width="502" height="295" alt="side one">
 </div>
-
-<img src="https://github.com/user-attachments/assets/18fe098a-1937-4947-b292-fa593095ec4c" width="300" height="230" alt="side two">
+<img src="https://github.com/user-attachments/assets/668b1b3f-cc90-4c99-bfdb-e46dd45d06d5" width="502" height="295" alt="side two">
 
 
 
