@@ -1,5 +1,5 @@
 <html lang="en">
-<body style="background-color:blue;">
+<body style="background-color:#CCDBFB;">
   <meta charset="UTF-8">
 </head>
 <body>
