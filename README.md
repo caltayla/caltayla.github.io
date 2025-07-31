@@ -7,7 +7,8 @@
   *<h1>welcome to dragonfly daycare</h1>*
 
   <main>
-    <section class="intro">
+    <button class="collapsible">Click to Read About Me</button>
+    <div class="content">
       <p>Hi! I’m Cal — a warm, reliable, and passionate babysitter and domestic helper based locally. I’m 21 years old with over four years of hands-on babysitting experience, plus two years working at a local daycare. I care for children from newborns through to 13 years old, and I absolutely love what I do.</p>
 
       <p>My passion for childcare started at home, looking after my two younger brothers. They sparked my love for supporting children’s growth and development — a passion I now back with formal study as I complete my Certificate IV in Special Needs Education Support at TAFE (due to finish in late 2025).</p>
